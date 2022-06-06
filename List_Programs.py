@@ -1057,7 +1057,7 @@ for i in range(0,x,n):
     output.append(new)
 
 print(output)
------------------------------------------------
+-----------------------------------------------'''
 # 30)Python | Sort the values of first list using second list
 
 list1 = ["a", "b", "c", "d", "e", "f", "g", "h", "i"]
@@ -1066,4 +1066,3 @@ print('zipped list: ', list(zip(list2,list1)))
 z =sorted(zip(list2,list1))
 print('Sorted list: ', list(z))
 sorted(z)
------------------------------------------------'''
