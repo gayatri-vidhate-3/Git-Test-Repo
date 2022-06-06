@@ -537,7 +537,7 @@ print(new.keys())  # this gives o/p like ==> dict_keys(['g', 'e', 'k', 's'])
 for i in new.keys():
     print(i, end=" ")
 
------------------------------------------------------------------
+-----------------------------------------------------------------'''
 # 30) Python – Replace all occurrences of a substring in a string
 # nput : test_str = “geeksforgeeks”
 # s1 = “for”
@@ -549,4 +549,3 @@ s2 = 'abcd'
 
 x = test_str.replace(s1,s2)
 print(x)
------------------------------------------------------------------'''
